@@ -4,8 +4,8 @@ Simple snapshot utility that uses TAR to compress current directory into a
 `.tar` file while ignoring some of the directories.
 
 > [!NOTE]
-> This could very well be a bash scirpt but why not have fun with it and do it
-> in C and learn something in the process.
+> This could have very well been a bash script but why not have fun with it and
+> do it in C and learn something in the process.
 
 ## Compilation & Dependencies
 
