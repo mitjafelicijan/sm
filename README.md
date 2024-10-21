@@ -27,3 +27,9 @@ Available options:
   -v,--verbose         show detailed log
 ```
 
+## License
+
+[sm](https://github.com/mitjafelicijan/sm) was written by [Mitja
+Felicijan](https://mitjafelicijan.com) and is released under the BSD
+two-clause license, see the LICENSE file for more information.
+
